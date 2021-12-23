@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGoRKC1MyGNohoFbqxWaxy14rLJAGeEa0QRxw8sB49t_MhqR5m7NryUso1lucKbtCZXc&usqp=CAU" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.motor1.com/images/mgl/xW8K2/s1/bugatti-chiron-pur-sport.webp" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
